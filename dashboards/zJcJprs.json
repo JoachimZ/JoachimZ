@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "xuGuUeR",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "joachim",
+  "listed": true,
+  "name": "git1\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "joachim"
+    },
+    "lastModifiedOn": 1586872106228
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "joachim"
+    },
+    "lastModifiedOn": 1586872106228
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
